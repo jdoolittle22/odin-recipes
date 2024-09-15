@@ -1,2 +1,2 @@
 # odin-recipes
-showcasing basic html skills including lists, links, and images
+showcasing basic html skills inluding lists, links, and images
